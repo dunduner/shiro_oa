@@ -1,3 +1,4 @@
+# 根据用户名查权限 https://blog.csdn.net/wohaqiyi/article/details/79334899
 SELECT DISTINCT
 	f.* 
 FROM
